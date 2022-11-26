@@ -1,0 +1,213 @@
+html {
+  background-color: white;
+}
+header {
+  display: flex;
+  background-color: white;
+  max-height: 91px;
+}
+
+body {
+  background-image: url(./concept2_zoombkgrd_gym.jpg);
+  object-fit: cover;
+  font-family: "Open Sans";
+  object-fit: cover;
+  max-width: 1300;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 70%;
+  height: 92%;
+  object-fit: cover;
+}
+
+nav {
+  display: inline-block;
+  width: 52%;
+  margin-left: 693px;
+  margin-top: 25px;
+}
+
+nav li {
+  list-style: none;
+  display: inline;
+}
+
+nav li a {
+  display: inline;
+  font-weight: 400;
+  color: black;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+nav li a:hover {
+  color: #d1c52c;
+  font-weight: 590;
+  font-style: italic;
+}
+
+.global-nav {
+  width: 46%;
+  display: inline;
+  margin-left: 400px;
+}
+
+.global-nav h1 {
+  display: inline;
+}
+
+.title-promotion {
+  display: flex;
+  font-size: 50px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.title-deals {
+  display: flex;
+  color: #e70202;
+  font-style: italic;
+  margin-right: 2rem;
+}
+.title-deals:hover {
+  color: #d1c52c;
+}
+
+.product-promotion {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.product-promotion-deals {
+  display: flex;
+  max-width: 775x;
+  width: 50%;
+  margin-left: 40px;
+}
+.product-promotion-deals-info {
+  display: block;
+  text-align: left;
+  line-height: 2;
+}
+
+.title-product {
+  font-size: 25px;
+  margin-left: 27px;
+}
+
+.title-product:hover {
+  color: #d1c52c;
+}
+
+.product-img {
+  width: 425px;
+  border-radius: 15px;
+}
+.product-description {
+  width: 350px;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+  background-color: #4d5161;
+  border-radius: 20px;
+  height: 435px;
+  margin-left: 20px;
+}
+
+.price {
+  display: block;
+  color: white;
+  font-size: 27px;
+}
+
+.price-button {
+  display: flex;
+  width: 160px;
+  height: 35px;
+  font-size: 24px;
+  background-color: #faa330;
+  border: 1px solid;
+  border-radius: 20px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  margin: 0px auto;
+}
+.price-button:hover {
+  color: #faa330;
+  background-color: white;
+  cursor: pointer;
+}
+
+.home-section {
+  background-color: white;
+  margin-top: 130px;
+}
+.home-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  margin-top: 50px;
+}
+.home-section p {
+  text-align: center;
+  line-height: 2;
+  width: 1300px;
+  margin: 0px auto;
+}
+
+.home-description {
+  margin-bottom: 30px;
+}
+
+.home-section p span {
+  color: #229ae7;
+}
+
+footer {
+  background-color: darkgoldenrod;
+}
+.copy-right {
+  color: white;
+  text-align: center;
+}
+.contacts-content-footer {
+  display: flex;
+  justify-content: center;
+}
+.contacts-content-info {
+  display: inline;
+  width: 25%;
+}
+.contacts-content-info h3 {
+  display: inline;
+  color: white;
+  text-align: center;
+  margin-left: 40px;
+}
+.contacts-content-footer-desc ul {
+  display: flex;
+}
+
+.contacts-content-footer-desc ul li {
+  color: white;
+  list-style: none;
+}
+.contacts-content-footer-desc img {
+  display: flex;
+  width: 37px;
+  border-radius: 20px;
+  margin-right: 20px;
+}
+
+.elliptiGo-info {
+  display: flex;
+  margin: 0px auto;
+}
+.home-title span {
+  color: #50e702;
+}

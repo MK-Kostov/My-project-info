@@ -1,3 +1,3 @@
 # My-project-info
 
-link: https://github.com/MK-Kostov/My-project-info/blob/main/index.html
+link: https://mk-kostov.github.io/My-project-info/
